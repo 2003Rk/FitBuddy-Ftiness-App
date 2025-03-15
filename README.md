@@ -49,9 +49,9 @@ You can download the latest APK version of **FitBuddy** below:
 Here’s a glimpse of the FitBuddy app in action:
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1SsfCgtVJihNA-ex-If2PSPtW0X5GvT2S" width="100" height="100"/>
-  <img src="https://drive.google.com/uc?export=view&id=1t1d3Md0wn8qPc4WxTQPoWA0bt48lRSiu" width="100" height="100"/>
-  <img src="https://drive.google.com/uc?export=view&id=1-LnHvutllCOXqj5kl9nk5Quv2U9wVvam" width="100" height="100"/>
+  <img src="https://drive.google.com/uc?export=view&id=1SsfCgtVJihNA-ex-If2PSPtW0X5GvT2S" width="200" height="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1t1d3Md0wn8qPc4WxTQPoWA0bt48lRSiu" width="200" height="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1-LnHvutllCOXqj5kl9nk5Quv2U9wVvam" width="200" height="300"/>
 </div>
 
 ## Contributing 🤝
