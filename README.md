@@ -1,7 +1,3 @@
-Here's the updated **FitBuddy** README without the installation part and with an added section for the APK:
-
----
-
 # FitBuddy - Fitness App 💪
 
 <img src="https://drive.google.com/uc?export=view&id=1ViLTmOqNk_9d13Jd5tN18mJGAp1KlBfo" width="100"/>
