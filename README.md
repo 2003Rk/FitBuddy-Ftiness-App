@@ -4,7 +4,7 @@ Here's the updated **FitBuddy** README without the installation part and with an
 
 # FitBuddy - Fitness App 💪
 
-![FitBuddy Logo](https://your-image-url-here)  
+![FitBuddy Logo](https://drive.google.com/file/d/1ViLTmOqNk_9d13Jd5tN18mJGAp1KlBfo/view?usp=share_link)  
 **FitBuddy** is a powerful and intuitive fitness app designed to help users achieve their health and fitness goals. With customized workout routines, nutrition guidance, and progress tracking, FitBuddy offers a comprehensive approach to fitness. Featuring motivational tools like a BMI calculator, progress photos, and daily fitness quizzes, it empowers users to stay on track and succeed in their wellness journey.
 
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/fitbuddy)](https://github.com/yourusername/fitbuddy/issues)  
