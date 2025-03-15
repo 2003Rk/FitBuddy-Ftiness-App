@@ -59,30 +59,9 @@ Here’s a glimpse of the FitBuddy app in action:
 </table>
 
 
-## Contributing 🤝
-
-We welcome contributions to FitBuddy! To get started:
-
-1. **Fork** the repository.
-2. **Clone** your fork to your local machine.
-3. **Create** a new branch for your feature or fix.
-4. **Commit** your changes.
-5. **Push** the branch and create a **Pull Request**.
-
-Please follow the existing code style and include tests where applicable.
-
-## License 📝
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments 🙏
 
 - **Flutter**: For building beautiful, natively compiled applications for mobile from a single codebase.  
 - **Django**: For creating a powerful and scalable web framework with Python.  
 - **Render**: For reliable hosting and database solutions.  
-- **Edamam API**: For providing healthy meal suggestions.  
-- **Google ML Kit**: For helping us with AI-powered food scanning.
-
----
-
-You can replace the placeholder for the APK download link with the actual URL once the APK is hosted. This version now focuses more on the app features and APK access, removing the installation steps.
+- **The Meal DB API**: For providing healthy meal suggestions.  
