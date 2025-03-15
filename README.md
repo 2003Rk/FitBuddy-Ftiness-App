@@ -8,8 +8,7 @@ Here's the updated **FitBuddy** README without the installation part and with an
  
 **FitBuddy** is a powerful and intuitive fitness app designed to help users achieve their health and fitness goals. With customized workout routines, nutrition guidance, and progress tracking, FitBuddy offers a comprehensive approach to fitness. Featuring motivational tools like a BMI calculator, progress photos, and daily fitness quizzes, it empowers users to stay on track and succeed in their wellness journey.
 
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/fitbuddy)](https://github.com/yourusername/fitbuddy/issues)  
-[![GitHub license](https://img.shields.io/github/license/yourusername/fitbuddy)](https://github.com/yourusername/fitbuddy/license)  
+ 
 [![Flutter](https://img.shields.io/badge/Flutter-v2.10.5-blue)](https://flutter.dev)  
 [![Django](https://img.shields.io/badge/Django-v4.0-green)](https://www.djangoproject.com/)  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v13.4-purple)](https://www.postgresql.org/)
@@ -28,9 +27,6 @@ Track your health with the built-in BMI calculator that gives insights into your
 🔹 **Progress Photos**  
 Capture your fitness transformation! Upload progress photos to visually track your fitness journey.
 
-🔹 **Daily Fitness Quiz**  
-Stay motivated with daily quizzes on fitness, nutrition, and wellness tips. Learn something new every day!
-
 🔹 **Stretching Routine**  
 Based on your body stiffness, receive personalized stretching exercises to improve flexibility and reduce muscle tightness.
 
@@ -39,22 +35,24 @@ Based on your body stiffness, receive personalized stretching exercises to impro
 - **Frontend**: Flutter  
 - **Backend**: Django  
 - **Database**: PostgreSQL (Render)  
-- **APIs**: Edamam API (meal recommendations), Google ML Kit (AI-based food scanning)  
+- **APIs**: The Meal DB API (meal recommendations)
 - **Hosting**: Render (PostgreSQL & Backend)
 
 ## APK Download 📲
 
 You can download the latest APK version of **FitBuddy** below:
 
-[Download APK](https://your-apk-download-link-here)
+[Download APK](https://drive.google.com/uc?export=download&id=1BpdPBhNoiLpX2S5JN_PQ84bBrhJOIQrh)
 
 ## Screenshots 📸
 
 Here’s a glimpse of the FitBuddy app in action:
 
-![Screenshot 1](https://your-image-url-here)  
-![Screenshot 2](https://your-image-url-here)  
-![Screenshot 3](https://your-image-url-here)
+<img src="https://drive.google.com/uc?export=view&id=1SsfCgtVJihNA-ex-If2PSPtW0X5GvT2S" width="300"/>
+
+<img src="https://drive.google.com/uc?export=view&id=1t1d3Md0wn8qPc4WxTQPoWA0bt48lRSiu" width="300"/>
+
+<img src="https://drive.google.com/uc?export=view&id=1-LnHvutllCOXqj5kl9nk5Quv2U9wVvam" width="300"/>
 
 ## Contributing 🤝
 
