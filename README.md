@@ -6,6 +6,7 @@
 
 Download & Install
 📥 Click below to download the latest APK:
+
 📥 APK : https://github.com/2003Rk/FitBuddy-Ftiness-App/releases/download/v2.0.0/app-release.apk
 
 
