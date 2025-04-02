@@ -69,7 +69,7 @@ Here’s a glimpse of the FitBuddy app in action:
 - **Render**: For reliable hosting and database solutions.  
 - **The Meal DB API**: For providing healthy meal suggestions.
 
-  ## 📧 Contact
+## 📧 Contact
 - **Developer:** Rahul Kumar  
 - **Email:** rahulkr99222@gmail.com  
 - **LinkedIn:** [Checkout](www.linkedin.com/in/rahul-kr2000)  
