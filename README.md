@@ -60,4 +60,12 @@ Here’s a glimpse of the FitBuddy app in action:
 - **Flutter**: For building beautiful, natively compiled applications for mobile from a single codebase.  
 - **Django**: For creating a powerful and scalable web framework with Python.  
 - **Render**: For reliable hosting and database solutions.  
-- **The Meal DB API**: For providing healthy meal suggestions.  
+- **The Meal DB API**: For providing healthy meal suggestions.
+
+  ## 📧 Contact
+- **Developer:** Rahul Kumar  
+- **Email:** rahulkr99222@gmail.com  
+- **LinkedIn:** [Your Profile](www.linkedin.com/in/rahul-kr2000)  
+
+
+
