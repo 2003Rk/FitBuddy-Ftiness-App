@@ -4,6 +4,11 @@
  
 **FitBuddy** is a powerful and intuitive fitness app designed to help users achieve their health and fitness goals. With customized workout routines, nutrition guidance, and progress tracking, FitBuddy offers a comprehensive approach to fitness. Featuring motivational tools like a BMI calculator, progress photos, and daily fitness quizzes, it empowers users to stay on track and succeed in their wellness journey.
 
+Download & Install
+📥 Click below to download the latest APK:
+📥 APK : https://github.com/2003Rk/FitBuddy-Ftiness-App/releases/download/v2.0.0/app-release.apk
+
+
  
 [![Flutter](https://img.shields.io/badge/Flutter-v2.10.5-blue)](https://flutter.dev)  
 [![Django](https://img.shields.io/badge/Django-v4.0-green)](https://www.djangoproject.com/)  
@@ -38,7 +43,7 @@ Based on your body stiffness, receive personalized stretching exercises to impro
 
 You can download the latest APK version of **FitBuddy** below:
 
-[Download APK](https://drive.google.com/uc?export=download&id=1BpdPBhNoiLpX2S5JN_PQ84bBrhJOIQrh)
+[Download APK](https://github.com/2003Rk/FitBuddy-Ftiness-App/releases/download/v2.0.0/app-release.apk)
 
 ## Screenshots 📸
 
