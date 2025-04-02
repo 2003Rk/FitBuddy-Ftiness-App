@@ -65,7 +65,7 @@ Here’s a glimpse of the FitBuddy app in action:
   ## 📧 Contact
 - **Developer:** Rahul Kumar  
 - **Email:** rahulkr99222@gmail.com  
-- **LinkedIn:** [Your Profile](www.linkedin.com/in/rahul-kr2000)  
+- **LinkedIn:** [Checkout](www.linkedin.com/in/rahul-kr2000)  
 
 
 
