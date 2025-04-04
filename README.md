@@ -2,7 +2,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1ViLTmOqNk_9d13Jd5tN18mJGAp1KlBfo" width="100"/>
  
-**FitBuddy** is a powerful and intuitive fitness app designed to help users achieve their health and fitness goals. With customized workout routines, nutrition guidance, and progress tracking, FitBuddy offers a comprehensive approach to fitness. Featuring motivational tools like a BMI calculator, progress photos, and daily fitness quizzes, it empowers users to stay on track and succeed in their wellness journey.
+**FitBuddy** is a powerful and intuitive fitness app designed to help users achieve their health and fitness goals. With customized workout routines, nutrition guidance, and progress tracking, FitBuddy offers a comprehensive approach to fitness. Featuring motivational tools like a BMI calculator, progress photos, it empowers users to stay on track and succeed in their wellness journey.
 
 Download & Install :
 
